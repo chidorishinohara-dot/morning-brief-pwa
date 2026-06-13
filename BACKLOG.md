@@ -3,6 +3,7 @@
 ## Current
 - [x] Implement the approved Google Chrome / Material study planner UI.
 - [x] Add June 2026 schedule, deadline, and exam data.
+- [x] Confirm the Oral English interview date as 2026-06-16 and add preparation tasks.
 - [x] Verify mobile layout, local completion state, countdown colors, and calendar export.
 
 ## Later
